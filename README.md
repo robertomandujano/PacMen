@@ -6,5 +6,7 @@ How to run
 
 Future Improvements
 
+Future improvements for the PacMen exercise consist of adding the pacman background and making the the images follow the set path and not just bouncing around. Another potential improvement is allowing the user to determine the movement of the pacman with the use of arrow keys or mouse.
+
 Liscense Information
 
