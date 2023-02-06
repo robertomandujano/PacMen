@@ -10,4 +10,4 @@ Future improvements for the PacMen exercise consist of adding the pacman backgro
 
 Liscense Information
 
-MIT Liscense-refer to the "LICENSE" file above.
+MIT License-refer to the "LICENSE" file above.
